@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tp2JuanIgnacioDominguez</string>
+    <string name="titulo">Veterinaria Pachorro</string>
+    <string name="etNombre">Nombre</string>
+    <string name="rbPerro">Perro</string>
+    <string name="rbConejo">Conejo</string>
+    <string name="rbGato">Gato</string>
+    <string name="raza">Raza</string>
+    <string name="edad">Edad</string>
+    <string name="causa">Causa de atencion</string>
+    <string name="enviar">Enviar</string>
+    <string name="titulo2">Informe Veterinario</string>
+    <string name="diagnostico">Diagnostico</string>
+    <string name="causa2">Causa</string>
+    <string name="medicamentos">Medicamentos</string>
+    <string name="tratamiento">Tratamiento</string>
+    <string name="rbReposo">1 semana de reposo</string>
+    <string name="rbReposo2">2 semanas de reposo</string>
+    <string name="VetJuan">Vet Juan</string>
+    <string name="VetPedro">Vet Pedro</string>
+
+</resources>
